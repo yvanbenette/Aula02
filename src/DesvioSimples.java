@@ -16,6 +16,7 @@ public class DesvioSimples {
 		if (idade>=12) {
 			System.out.println("Você pode jogar");
 		} else {
+			//Programa com desvio simples, porem implementado desvio composto
 			System.out.println("Você nao pode jogar, idade nao permitida");
 		}
 			
